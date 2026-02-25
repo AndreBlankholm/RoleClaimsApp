@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "jDis8hkOF01Te6x0RLZcPChsq2dO2ixywwZI8vFdc5I=",
+  "Source": "RoleClaimsApp",
+  "BasePath": "_content/RoleClaimsApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
