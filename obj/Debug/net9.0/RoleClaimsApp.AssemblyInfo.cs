@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RoleClaimsApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+955b62ff68f1ad53dc853b1d6256092c06cf5c89")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca7412ead5aa65632fe8a1071b66b6dfc96db5dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("RoleClaimsApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RoleClaimsApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

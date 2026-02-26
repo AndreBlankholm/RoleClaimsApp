@@ -25,6 +25,7 @@ if (!await roleManager.RoleExistsAsync("User"))
 
 Claim claim = new Claim("Permission", "ManageEmployeeRecords");
 
+await roleManager.AddClaimAsync(await roleManager.FindByNameAsync("HR"), claim);
 
 // Map controllers
 app.MapControllers();
